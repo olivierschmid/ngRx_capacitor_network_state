@@ -1,0 +1,7 @@
+{
+  "name": "ngRxCap",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
